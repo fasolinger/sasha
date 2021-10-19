@@ -10,5 +10,10 @@ git remote set-url origin https://github.com/AlexProtas03/sasha.git
 
 touck udalenka.txt
 git add .
-git commit -m
+git commit -m " "
 git push origin master
+  
+rm ryba.pwd
+git add .
+git commit -m "pustota"
+git push origin master 
