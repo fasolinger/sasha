@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#icnlude <string>
+#include <string>
 #include <algorithm>
 #include <random>
 #include <functional>
